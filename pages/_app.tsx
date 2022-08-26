@@ -34,13 +34,14 @@ const _Scripts = () => (
           `,
       }}
     />
+    <link rel="icon" href="/favicon.ico" />
   </Head>
 );
 
 const SEO = () => {
   const title = "";
   const description = "";
-  const url = "https://www.draftorders.com/";
+  const url = "https://www.draftorders.com";
 
   const socialImg = {
     url: `${url}/screenshot.png`,
